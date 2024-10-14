@@ -1,0 +1,14 @@
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/bin/Debug/net8.0/rock_paper_scissors
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/bin/Debug/net8.0/rock_paper_scissors.deps.json
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/bin/Debug/net8.0/rock_paper_scissors.runtimeconfig.json
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/bin/Debug/net8.0/rock_paper_scissors.dll
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/bin/Debug/net8.0/rock_paper_scissors.pdb
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/rock_paper_scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/rock_paper_scissors.AssemblyInfoInputs.cache
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/rock_paper_scissors.AssemblyInfo.cs
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/rock_paper_scissors.csproj.CoreCompileInputs.cache
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/rock_paper_scissors.dll
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/refint/rock_paper_scissors.dll
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/rock_paper_scissors.pdb
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/rock_paper_scissors.genruntimeconfig.cache
+/Users/levaniaisack/source/codeworks/afternoon_labs/rock_paper_scissors/obj/Debug/net8.0/ref/rock_paper_scissors.dll
